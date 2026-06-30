@@ -10,8 +10,6 @@
 └───────────────────────────────────────────────────────────┘
 ```
 
-**The ledger is a crime scene. I'm solving the case.**
-
 <a href="https://rugburn.io"><img src="https://img.shields.io/badge/RugBurn-live-8b0000?style=flat-square" alt="RugBurn"></a>
 <img src="https://img.shields.io/badge/Solana-the_hard_adapter-14F195?style=flat-square&logo=solana&logoColor=white" alt="Solana">
 <img src="https://img.shields.io/badge/Stellar-Soroban-000000?style=flat-square&logo=stellar&logoColor=white" alt="Stellar">
@@ -24,6 +22,8 @@
 ---
 
 ## ▍My Turf
+
+**The ledger is a crime scene. I'm solving the case.**
 
 Everyone else reads the price. I read the **intent**.
 
