@@ -10,10 +10,10 @@
 
 ```
 ┌─ CASE FILE ───────────────────────────────────────────────┐
-│  SUBJECT : Victor "Storm" Nwachukwu                        │
+│  SUBJECT : Victor Nwachukwu   ($torm)                      │
 │  TRADE   : on-chain forensics · behavioral risk            │
 │  BASE    : Port Harcourt, NG                               │
-│  STATUS  : Money Surveillance                              │
+│  STATUS  : Surveillance                                    │
 └───────────────────────────────────────────────────────────┘
 ```
 
