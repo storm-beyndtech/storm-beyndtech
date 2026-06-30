@@ -1,11 +1,11 @@
 <h1 align="center">Storm — Victor Nwachukwu</h1>
 
 <p align="center">
-  <em>The ledger is a crime scene. I read it for a living.</em>
+  <em>On-Chain Sleuth</em>
 </p>
 
 <p align="center">
-  On-chain forensics &amp; behavioral risk engineer · Founder of <a href="https://rugburn.io">RugBurn</a> · Building from Port Harcourt, Nigeria 🇳🇬
+  On-chain forensics &amp; behavioral risk engineer · Founder of <a href="https://rugburn.io">RugBurn</a>
 </p>
 
 <p align="center">
