@@ -1,21 +1,21 @@
 
 <div align="center">
 
+<a href="https://rugburn.io"><img src="https://img.shields.io/badge/RugBurn-8b0000?style=flat-square" alt="RugBurn"></a>
+<img src="https://img.shields.io/badge/Solana-14F195?style=flat-square&logo=solana&logoColor=white" alt="Solana">
+<img src="https://img.shields.io/badge/Stellar-000000?style=flat-square&logo=stellar&logoColor=white" alt="Stellar">
+<img src="https://img.shields.io/badge/Rust-b7410e?style=flat-square&logo=rust&logoColor=white" alt="Rust">
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+
 ```
 ┌─ CASE FILE ───────────────────────────────────────────────┐
 │  SUBJECT : Victor "Storm" Nwachukwu                        │
 │  TRADE   : on-chain forensics · behavioral risk            │
 │  BASE    : Port Harcourt, NG                               │
-│  STATUS  : Money Surveillance                             │
+│  STATUS  : Money Surveillance                              │
 └───────────────────────────────────────────────────────────┘
 ```
-
-<a href="https://rugburn.io"><img src="https://img.shields.io/badge/RugBurn-live-8b0000?style=flat-square" alt="RugBurn"></a>
-<img src="https://img.shields.io/badge/Solana-the_hard_adapter-14F195?style=flat-square&logo=solana&logoColor=white" alt="Solana">
-<img src="https://img.shields.io/badge/Stellar-Soroban-000000?style=flat-square&logo=stellar&logoColor=white" alt="Stellar">
-<img src="https://img.shields.io/badge/Rust-loading-b7410e?style=flat-square&logo=rust&logoColor=white" alt="Rust">
-<img src="https://img.shields.io/badge/TypeScript-native-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
 
 </div>
 
