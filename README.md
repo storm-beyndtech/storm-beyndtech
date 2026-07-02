@@ -23,8 +23,6 @@
 
 ## ▍My Turf
 
-**The ledger is a crime scene. I'm solving the case.**
-
 Everyone else reads the price. I read the **intent**.
 
 I work the seam where raw chain data turns into evidence — behavioral risk scoring,
